@@ -32,8 +32,3 @@
 - 전산 지식 : 6/6 정보처리기사
 - RDBMS : Django에서 SQLite 한 내용을 바탕으로 SQLD 등 자격증 알아볼 것!
 - Framework Django 공부 꾸준히 하고 Flask공부도 해보자!
-
-
-
-
-
